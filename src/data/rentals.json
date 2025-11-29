@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Chic Parisian Flat",
+    "price": "€150/night",
+    "location": "Le Marais, Paris",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "airbnb_url": "https://www.airbnb.com",
+    "booked_dates": [
+      "2024-08-10",
+      "2024-08-11",
+      "2024-08-18",
+      "2024-08-19",
+      "2024-08-20"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Seaside Cottage in Normandy",
+    "price": "€120/night",
+    "location": "Étretat, Normandy",
+    "image": "https://images.unsplash.com/photo-1622329712316-63da29f7f08d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "airbnb_url": null,
+    "booked_dates": [
+      "2024-09-01",
+      "2024-09-02",
+      "2024-09-03",
+      "2024-09-15",
+      "2024-09-16"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Alpine Chalet",
+    "price": "€250/night",
+    "location": "Chamonix, Alps",
+    "image": "https://images.unsplash.com/photo-1551524164-687a55dd1126?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "airbnb_url": "https://www.airbnb.com",
+    "booked_dates": [
+      "2024-07-25",
+      "2024-07-26",
+      "2024-08-05"
+    ]
+  }
+] 

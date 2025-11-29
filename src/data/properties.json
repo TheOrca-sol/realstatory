@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Apartment in City Center",
+    "price": "€450,000",
+    "price_value": 450000,
+    "location": "Downtown, Paris",
+    "coordinates": { "lat": 48.8566, "lng": 2.3522 },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "A beautiful and modern apartment located in the heart of the city. Close to all amenities, with a stunning view of the skyline. Perfect for young professionals or a small family.",
+    "details": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1200
+    },
+    "amenities": ["Furnished", "Security", "Parking"],
+    "virtual_tour_url": "https://my.matterport.com/show/?m=uRGXgoiYk9d",
+    "floor_plan_url": "https://images.unsplash.com/photo-1585435924231-ac193502e6c5",
+    "type": "sale"
+  },
+  {
+    "id": 2,
+    "title": "Cozy Suburban House",
+    "price": "€650,000",
+    "price_value": 650000,
+    "location": "Versailles",
+    "coordinates": { "lat": 48.8014, "lng": 2.1301 },
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "A charming house in a quiet suburban neighborhood. Features a large backyard, a modern kitchen, and spacious rooms. Ideal for a growing family.",
+    "details": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2500
+    },
+    "amenities": ["Garden", "Garage", "Fireplace"],
+    "virtual_tour_url": null,
+    "floor_plan_url": "https://images.unsplash.com/photo-1585435924231-ac193502e6c5",
+    "type": "sale"
+  },
+  {
+    "id": 3,
+    "title": "Luxury Villa with a Pool",
+    "price": "€1,200,000",
+    "price_value": 1200000,
+    "location": "Saint-Tropez",
+    "coordinates": { "lat": 43.2694, "lng": 6.6406 },
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Experience luxury living in this stunning villa with a private pool and breathtaking ocean views. Fully equipped with high-end amenities for your comfort.",
+    "details": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 4000
+    },
+    "amenities": ["Pool", "Ocean View", "Gym", "Home Theater"],
+    "virtual_tour_url": "https://my.matterport.com/show/?m=uRGXgoiYk9d",
+    "floor_plan_url": null,
+    "type": "sale"
+  },
+  {
+    "id": 4,
+    "title": "Downtown Loft for Rent",
+    "price": "€2,500/month",
+    "price_value": 2500,
+    "location": "Lyon",
+    "coordinates": { "lat": 45.7640, "lng": 4.8357 },
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Stylish and spacious loft apartment available for long-term rent. Open-plan living space with industrial-chic design. Located in a vibrant area with great nightlife.",
+    "details": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 1000
+    },
+    "amenities": ["Pet Friendly", "Open Concept", "Exposed Brick"],
+    "virtual_tour_url": null,
+    "floor_plan_url": "https://images.unsplash.com/photo-1585435924231-ac193502e6c5",
+    "type": "rent"
+  }
+] 

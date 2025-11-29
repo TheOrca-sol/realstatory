@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "author": "Sophie Martin",
+    "location": "Paris",
+    "quote": "Working with this agency was a dream come true. They found us the perfect apartment in Le Marais faster than we could have imagined. Truly professional and dedicated.",
+    "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 2,
+    "author": "Jean-Pierre Dubois",
+    "location": "Lyon",
+    "quote": "Their knowledge of the local market is second to none. They helped us sell our home for a great price and handled everything flawlessly. Highly recommended!",
+    "avatar": "https://randomuser.me/api/portraits/men/43.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Chloé Lefebvre",
+    "location": "Saint-Tropez",
+    "quote": "The conciergerie service is a game-changer. They manage our short-term rental with such care and professionalism. Our occupancy rates have never been better.",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Lucas Moreau",
+    "location": "Versailles",
+    "quote": "From the first viewing to the final signature, the process was seamless. An incredibly trustworthy and efficient team. We couldn't be happier with our new family home.",
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+  }
+] 
