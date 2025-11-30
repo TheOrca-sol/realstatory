@@ -13,7 +13,7 @@ const Footer = () => {
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-secondary hover:text-white transition-colors duration-300">
               <FaFacebook size={24} />
             </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-secondary hover:text-white transition-colors duration-300">
+            <a href="https://instagram.com/realestatory" target="_blank" rel="noopener noreferrer" className="text-secondary hover:text-white transition-colors duration-300">
               <FaInstagram size={24} />
             </a>
           </div>
