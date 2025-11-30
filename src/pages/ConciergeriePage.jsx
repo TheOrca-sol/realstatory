@@ -5,7 +5,7 @@ import { FaKey, FaBroom, FaTools } from 'react-icons/fa';
 const conciergeriePackages = [
   {
     title: 'Essential',
-    price: '€99/mo',
+    price: '15%',
     description: 'The basics covered for your peace of mind.',
     features: ['Keyholding', 'Mail Collection', 'Weekly Property Check', 'Emergency Contact'],
     featured: false,
